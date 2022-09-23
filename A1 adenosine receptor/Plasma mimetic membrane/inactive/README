@@ -1,0 +1,12 @@
+
+Output files of the simulation of inactive state of A1 AR in plasma mimetic membrane of the following composition:
+
+Upper leaflet:        Lower leaflet:
+  20% POPC               5% POPC
+  20% DOPC               5% DOPC
+  5% POPE                20% POPE
+  5% DOPE                20% DOPE
+  5% SPH                 10% POPS
+  10% GM3                5% DOPS
+  25% CHOL               10% PIP2
+                         25% CHOL
